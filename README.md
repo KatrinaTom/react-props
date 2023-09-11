@@ -32,6 +32,14 @@ There is also a filter to show more of the HTML components
 
 Can also show the source code and inspect it, inside your browser.
 
+3. Mapping Data to Components
+
+Passing a function within a function. 
+
+The data requires a key, otherwise there is an error in the console
+
+<img src="images/key.png">
+
 ## Screenshots
 
 <img src="images/progress1.png" width=500 />
