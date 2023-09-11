@@ -23,19 +23,31 @@ Returns an Object
 
 2. React DOM Tree
 
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
 <img src="./images/reactDevTools.png" />
+
+There is also a filter to show more of the HTML components
+
+<img src="./images/devToolFilter.png" />
+
+Can also show the source code and inspect it, inside your browser. 
 
 
 
 ## Screenshots
 
-<img src="images/progress1.png" />
+<img src="images/progress1.png" width=500 />
 
-<img src="images/progress2.png" />
+<img src="images/progress2.png" width=500 />
 
 ## Resources
 
 **MDN Attributes**
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+
+https://react.dev/learn/passing-props-to-a-component
+
+
 
