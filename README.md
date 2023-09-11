@@ -23,15 +23,15 @@ Returns an Object
 
 2. React DOM Tree
 
-<img src="./images/reactDevTools.png" width=500 />
+<img src="./images/reactDevTools.png" />
 
 
 
 ## Screenshots
 
-<img src="images/progress1.png" width=500 />
+<img src="images/progress1.png" />
 
-<img src="images/progress2.png" width=500 />
+<img src="images/progress2.png" />
 
 ## Resources
 
