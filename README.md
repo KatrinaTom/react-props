@@ -4,12 +4,11 @@ Course material from Udemy: https://entainaustralia.udemy.com/course/the-complet
 
 ## Getting Started
 
-``npm install``
+`npm install`
 
-``npm start``
+`npm start`
 
-http://localhost:300 
-
+http://localhost:300
 
 ## Learning Objectives / Practice
 
@@ -19,7 +18,7 @@ console.log(props)
 
 Returns an Object
 
-* extracting components and making them smaller.
+- extracting components and making them smaller.
 
 2. React DOM Tree
 
@@ -31,15 +30,15 @@ There is also a filter to show more of the HTML components
 
 <img src="./images/devToolFilter.png" />
 
-Can also show the source code and inspect it, inside your browser. 
-
-
+Can also show the source code and inspect it, inside your browser.
 
 ## Screenshots
 
 <img src="images/progress1.png" width=500 />
 
 <img src="images/progress2.png" width=500 />
+
+<img src="images/progress3.png" width=500 />
 
 ## Resources
 
@@ -48,6 +47,3 @@ Can also show the source code and inspect it, inside your browser.
 https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
 
 https://react.dev/learn/passing-props-to-a-component
-
-
-
