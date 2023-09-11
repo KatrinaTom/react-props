@@ -28,7 +28,7 @@ https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopl
 
 There is also a filter to show more of the HTML components
 
-<img src="./images/devToolFilter.png" with="200"/>
+<img src="./images/devToolFilter.png" width="200"/>
 
 Can also show the source code and inspect it, inside your browser.
 
