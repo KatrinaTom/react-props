@@ -19,13 +19,19 @@ console.log(props)
 
 Returns an Object
 
-----
+* extracting components and making them smaller.
+
+2. React DOM Tree
+
+<img src="./images/reactDevTools.png" width=500 />
 
 
 
 ## Screenshots
 
 <img src="images/progress1.png" width=500 />
+
+<img src="images/progress2.png" width=500 />
 
 ## Resources
 
