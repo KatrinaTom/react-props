@@ -28,7 +28,7 @@ https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopl
 
 There is also a filter to show more of the HTML components
 
-<img src="./images/devToolFilter.png" width="200"/>
+<img src="./images/devToolFilter.png" />
 
 Can also show the source code and inspect it, inside your browser.
 
@@ -38,7 +38,7 @@ Passing a function within a function.
 
 The data requires a key, otherwise there is an error in the console
 
-<img src="images/key.png">
+<img src="images/key.png" width="200">
 
 ## Screenshots
 
